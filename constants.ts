@@ -1,7 +1,7 @@
 import { PersonalInfo, Education, TeachingCourse, Article, Thesis, Language } from './types';
 
 // Placeholder image (Professional man in suit) - Replace with your actual image path or URL
-const PROFILE_IMAGE_URL = "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80";
+const PROFILE_IMAGE_URL = "https://sadracheraghi.ir/pics/dezhabad.jpg";
 
 // CONFIGURATION
 export const ADMIN_PASSWORD = "admin123";
